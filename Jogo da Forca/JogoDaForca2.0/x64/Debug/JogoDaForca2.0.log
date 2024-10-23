@@ -1,0 +1,3 @@
+﻿  JogoDaForca2.0.cpp
+D:\Users\meiok\Cinel\UF0810 - C - avançado\Jogo da Forca\JogoDaForca2.0\JogoDaForca2.0.cpp(313,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  JogoDaForca2.0.vcxproj -> D:\Users\meiok\Cinel\UF0810 - C - avançado\Jogo da Forca\x64\Debug\JogoDaForca2.0.exe

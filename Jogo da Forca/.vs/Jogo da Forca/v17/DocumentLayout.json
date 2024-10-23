@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\meiok\\Cinel\\UF0810 - C - avan\u00E7ado\\Jogo da Forca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE9CD316-CB05-4D79-BE0F-F2C5575A5B8A}|JogoDaForca3.0Final\\JogoDaForca3.0Final.vcxproj|D:\\Users\\meiok\\Cinel\\UF0810 - C - avan\u00E7ado\\Jogo da Forca\\JogoDaForca3.0Final\\JogoDaForca3.0Final.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE9CD316-CB05-4D79-BE0F-F2C5575A5B8A}|JogoDaForca3.0Final\\JogoDaForca3.0Final.vcxproj|solutionrelative:JogoDaForca3.0Final\\JogoDaForca3.0Final.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0221813-685A-4570-BBB4-1029AE17183C}|JogoDaForca2.0\\JogoDaForca2.0.vcxproj|D:\\Users\\meiok\\Cinel\\UF0810 - C - avan\u00E7ado\\Jogo da Forca\\JogoDaForca2.0\\JogoDaForca2.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0221813-685A-4570-BBB4-1029AE17183C}|JogoDaForca2.0\\JogoDaForca2.0.vcxproj|solutionrelative:JogoDaForca2.0\\JogoDaForca2.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49ABD5F-63F8-4FA8-967F-2E557B763C70}|JogoDaForca1.1\\JogoDaForca1.1.vcxproj|D:\\Users\\meiok\\Cinel\\UF0810 - C - avan\u00E7ado\\Jogo da Forca\\JogoDaForca1.1\\JogoDaForca1.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F49ABD5F-63F8-4FA8-967F-2E557B763C70}|JogoDaForca1.1\\JogoDaForca1.1.vcxproj|solutionrelative:JogoDaForca1.1\\JogoDaForca1.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A8287C-2157-4716-BD76-0916248F56D3}|JogoDaForca\\JogoDaForca.vcxproj|D:\\Users\\meiok\\Cinel\\UF0810 - C - avan\u00E7ado\\Jogo da Forca\\JogoDaForca\\JogoDaForca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40A8287C-2157-4716-BD76-0916248F56D3}|JogoDaForca\\JogoDaForca.vcxproj|solutionrelative:JogoDaForca\\JogoDaForca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JogoDaForca3.0Final.cpp",
+              "DocumentMoniker": "D:\\Users\\meiok\\Cinel\\UF0810 - C - avan\u00E7ado\\Jogo da Forca\\JogoDaForca3.0Final\\JogoDaForca3.0Final.cpp",
+              "RelativeDocumentMoniker": "JogoDaForca3.0Final\\JogoDaForca3.0Final.cpp",
+              "ToolTip": "D:\\Users\\meiok\\Cinel\\UF0810 - C - avan\u00E7ado\\Jogo da Forca\\JogoDaForca3.0Final\\JogoDaForca3.0Final.cpp",
+              "RelativeToolTip": "JogoDaForca3.0Final\\JogoDaForca3.0Final.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAHECAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T15:24:47.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JogoDaForca2.0.cpp",
+              "DocumentMoniker": "D:\\Users\\meiok\\Cinel\\UF0810 - C - avan\u00E7ado\\Jogo da Forca\\JogoDaForca2.0\\JogoDaForca2.0.cpp",
+              "RelativeDocumentMoniker": "JogoDaForca2.0\\JogoDaForca2.0.cpp",
+              "ToolTip": "D:\\Users\\meiok\\Cinel\\UF0810 - C - avan\u00E7ado\\Jogo da Forca\\JogoDaForca2.0\\JogoDaForca2.0.cpp",
+              "RelativeToolTip": "JogoDaForca2.0\\JogoDaForca2.0.cpp",
+              "ViewState": "AQIAAC0BAAAAAAAAAAAgwBsCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T11:28:50.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JogoDaForca1.1.cpp",
+              "DocumentMoniker": "D:\\Users\\meiok\\Cinel\\UF0810 - C - avan\u00E7ado\\Jogo da Forca\\JogoDaForca1.1\\JogoDaForca1.1.cpp",
+              "RelativeDocumentMoniker": "JogoDaForca1.1\\JogoDaForca1.1.cpp",
+              "ToolTip": "D:\\Users\\meiok\\Cinel\\UF0810 - C - avan\u00E7ado\\Jogo da Forca\\JogoDaForca1.1\\JogoDaForca1.1.cpp",
+              "RelativeToolTip": "JogoDaForca1.1\\JogoDaForca1.1.cpp",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAJkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T19:40:58.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JogoDaForca.cpp",
+              "DocumentMoniker": "D:\\Users\\meiok\\Cinel\\UF0810 - C - avan\u00E7ado\\Jogo da Forca\\JogoDaForca\\JogoDaForca.cpp",
+              "RelativeDocumentMoniker": "JogoDaForca\\JogoDaForca.cpp",
+              "ToolTip": "D:\\Users\\meiok\\Cinel\\UF0810 - C - avan\u00E7ado\\Jogo da Forca\\JogoDaForca\\JogoDaForca.cpp",
+              "RelativeToolTip": "JogoDaForca\\JogoDaForca.cpp",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAAIcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T09:32:02.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
